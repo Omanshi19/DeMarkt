@@ -1,13 +1,13 @@
 # DeMarkt ⚡️
 
-DeMarkt is an advanced Decentralized Energy Marketplace (DEM) that uses blockchain and AI to coordinate energy exchanges between smart homes equipped with local energy storage. NFTs represent unique household energy profiles, enabling transparent and tamper-proof trading of surplus energy. [web:102][web:109]
+DeMarkt is an advanced Decentralized Energy Marketplace (DEM) that uses blockchain and AI to coordinate energy exchanges between smart homes equipped with local energy storage. NFTs represent unique household energy profiles, enabling transparent and tamper-proof trading of surplus energy. 
 
 ---
 
 ## 🔍 Overview
 
-The platform tokenizes each home’s energy behavior into Non-Fungible Tokens (NFTs), which serve as digital identities for trading and settlement on a blockchain-based marketplace. [web:102][web:105]  
-Federated Deep Reinforcement Learning (FDRL) is used to learn collaborative energy management strategies across multiple homes while keeping raw consumption data local, preserving user privacy. [web:110][web:107]
+The platform tokenizes each home’s energy behavior into Non-Fungible Tokens (NFTs), which serve as digital identities for trading and settlement on a blockchain-based marketplace. 
+Federated Deep Reinforcement Learning (FDRL) is used to learn collaborative energy management strategies across multiple homes while keeping raw consumption data local, preserving user privacy.
 
 ---
 
