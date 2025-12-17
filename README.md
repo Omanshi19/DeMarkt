@@ -4,7 +4,7 @@ DeMarkt is an advanced Decentralized Energy Marketplace (DEM) that uses blockcha
 
 ---
 
-## 🔍 Overview
+## 🔍 Overview 
 
 The platform tokenizes each home’s energy behavior into Non-Fungible Tokens (NFTs), which serve as digital identities for trading and settlement on a blockchain-based marketplace. 
 Federated Deep Reinforcement Learning (FDRL) is used to learn collaborative energy management strategies across multiple homes while keeping raw consumption data local, preserving user privacy.
