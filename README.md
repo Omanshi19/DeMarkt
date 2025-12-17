@@ -10,7 +10,7 @@ The platform tokenizes each home’s energy behavior into Non-Fungible Tokens (N
 Federated Deep Reinforcement Learning (FDRL) is used to learn collaborative energy management strategies across multiple homes while keeping raw consumption data local, preserving user privacy.
 
 ---
-
+ 
 ## ✨ Key Features
 
 - **NFT-based energy profiles** for each smart home, enabling unique, verifiable identities in the marketplace.
