@@ -12,7 +12,7 @@ Federated Deep Reinforcement Learning (FDRL) is used to learn collaborative ener
 ---
  
 ## ✨ Key Features
-
+ 
 - **NFT-based energy profiles** for each smart home, enabling unique, verifiable identities in the marketplace.
 - **Decentralized energy trading** for buying and selling surplus energy in a peer-to-peer fashion. 
 - **Federated DRL agents** that collaboratively optimize energy storage and usage without sharing raw user data. 
